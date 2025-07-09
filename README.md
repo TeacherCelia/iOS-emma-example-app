@@ -4,6 +4,8 @@ Este proyecto es una app de pruebas que estoy utilizando para implementar y comp
 No es una app final ni tiene una estructura cerrada, ya que la estoy usando para ir probando distintas funcionalidades.
 
 ---
+![Mockup de la app para testear EMMA](resources/mockup_emma_ios.png)
+
 
 ## 📄 Documentación complementaria
 
